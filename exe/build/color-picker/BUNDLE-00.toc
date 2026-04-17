@@ -1,0 +1,3 @@
+([('color-picker',
+   '/Users/eugene.lampione/Documents/repos/tkinter-python-programming/exe/dist/color-picker',
+   'EXECUTABLE')],)
