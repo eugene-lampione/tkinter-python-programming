@@ -14,3 +14,13 @@ def color():
 myButton = Button(root,text="Pick a Color", command=color).pack()
 
 root.mainloop()
+
+'''
+To create an executable file use the following command
+python3 -m PyInstaller --onefile --icon=[iconimage] --windowed [file to make executable]   
+
+https://pyinstaller.org/en/stable/usage.html
+
+-m <FILE or XML>
+Deprecated shorthand for –manifest.
+'''
