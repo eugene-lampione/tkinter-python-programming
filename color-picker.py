@@ -4,7 +4,7 @@ from tkinter import colorchooser
 root = Tk()
 root.title("Color Picker!")
 root.geometry("400x400")
-root.iconbitmap('/Users/eugene.lampione/Documents/repos/tkinter-python-programming/exe/paw.ico')
+root.iconbitmap('/Users/eugene.lampione/Documents/repos/tkinter-python-programming/paw.ico')
 
 def color():
     myColor = colorchooser.askcolor()[1]
